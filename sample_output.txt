@@ -1,0 +1,9 @@
+The cleaned total revenue was INR 97,358.30.
+
+The COD return rate was 44.4%.
+
+The highest-risk segment was COD customers in Tier-2 cities, with a return rate of 54.5%.
+
+The duplicate-driven reconciliation delta was INR 2,501.90.
+
+The true peak month was March 2026, with revenue of INR 20,318.90.
